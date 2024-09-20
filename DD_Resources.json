@@ -276,7 +276,7 @@
                             "alternateItemsChance": 0,
                             "alternateItems": [],
                             "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
+                            "consumesItemsChance": 1,
                             "consumesItems": [
 								{
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Chitin.PrimalItemResource_Chitin",
@@ -444,7 +444,7 @@
                             "alternateItemsChance": 0,
                             "alternateItems": [],
                             "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
+                            "consumesItemsChance": 1,
                             "consumesItems": [
 								{
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish",
@@ -499,7 +499,7 @@
                             "alternateItemsChance": 0,
                             "alternateItems": [],
                             "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
+                            "consumesItemsChance": 1,
                             "consumesItems": [
 								{
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish",
@@ -623,7 +623,7 @@
                                 }
 							],
                             "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
+                            "consumesItemsChance": 1,
                             "consumesItems": [
 								{
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Stone.PrimalItemResource_Stone",
@@ -773,7 +773,7 @@
                             "alternateItemsChance": 0,
                             "alternateItems": [],
                             "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
+                            "consumesItemsChance": 1,
                             "consumesItems": [
 								{
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_JellyVenom.PrimalItemConsumable_JellyVenom",
@@ -822,7 +822,7 @@
                             "alternateItemsChance": 0,
                             "alternateItems": [],
                             "consumesSelectMode": 0,
-                            "consumesItemsChance": 1,
+                            "consumesItemsChance": 0,
                             "consumesItems": []
                         }
                     ]
@@ -996,7 +996,7 @@
                             "maxQuantityInTerminal": 50000,
                             "quantityPerDino": 5,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.1,
+                            "alternateItemsChance": 0.05,
                             "alternateItems": [
 								{
                                     "bpPath": "/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_ElementOre.PrimalItemResource_ElementOre",
@@ -1006,7 +1006,7 @@
                                 }
 							],
                             "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
+                            "consumesItemsChance": 1,
                             "consumesItems": [
 								{
                                     "bpPath": "/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dodo.PrimalItemConsumable_Egg_Dodo",
@@ -1027,7 +1027,7 @@
                             "maxQuantityInTerminal": 50000,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
-                            "alternateItemsChance": 0.1,
+                            "alternateItemsChance": 0.05,
                             "alternateItems": [
 								{
                                     "bpPath": "/Game/Aberration/CoreBlueprints/Resources/PrimalItemResource_ElementOre.PrimalItemResource_ElementOre",
@@ -1037,7 +1037,7 @@
                                 }
 							],
                             "consumesSelectMode": 0,
-                            "consumesItemsChance": 0,
+                            "consumesItemsChance": 1,
                             "consumesItems": [
 								{
                                     "bpPath": "/Game/PrimalEarth/Test/PrimalItemConsumable_Egg_Dodo.PrimalItemConsumable_Egg_Dodo",
