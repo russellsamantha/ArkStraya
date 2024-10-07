@@ -419,12 +419,24 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "consumesSelectMode": 1,
                             "consumesItemsChance": 1,
                             "consumesItems": [
 							    {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish",
                                     "quantityPerItem": 10,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Fish.PrimalItemConsumable_CookedMeat_Fish",
+                                    "quantityPerItem": 10,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Fish.PrimalItemConsumable_CookedPrimeMeat_Fish",
+                                    "quantityPerItem": 5,
                                     "maxQuantityPerCycle": 0
                                 }
 							]
@@ -443,12 +455,24 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "consumesSelectMode": 1,
                             "consumesItemsChance": 1,
                             "consumesItems": [
 								{
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish",
                                     "quantityPerItem": 10,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Fish.PrimalItemConsumable_CookedMeat_Fish",
+                                    "quantityPerItem": 10,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Fish.PrimalItemConsumable_CookedPrimeMeat_Fish",
+                                    "quantityPerItem": 5,
                                     "maxQuantityPerCycle": 0
                                 }
 							]
@@ -474,12 +498,24 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "consumesSelectMode": 1,
                             "consumesItemsChance": 1,
                             "consumesItems": [
 							    {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish",
                                     "quantityPerItem": 10,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Fish.PrimalItemConsumable_CookedMeat_Fish",
+                                    "quantityPerItem": 10,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Fish.PrimalItemConsumable_CookedPrimeMeat_Fish",
+                                    "quantityPerItem": 5,
                                     "maxQuantityPerCycle": 0
                                 }
 							]
@@ -498,12 +534,24 @@
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
                             "alternateItems": [],
-                            "consumesSelectMode": 0,
+                            "consumesSelectMode": 1,
                             "consumesItemsChance": 1,
                             "consumesItems": [
 								{
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMeat_Fish.PrimalItemConsumable_RawMeat_Fish",
                                     "quantityPerItem": 10,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Fish.PrimalItemConsumable_CookedMeat_Fish",
+                                    "quantityPerItem": 10,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Fish.PrimalItemConsumable_CookedPrimeMeat_Fish",
+                                    "quantityPerItem": 5,
                                     "maxQuantityPerCycle": 0
                                 }
 							]
@@ -1048,6 +1096,268 @@
                         }
                     ]
                 }
+            ]
+        },
+		{
+            "dinoType": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP",
+            "chanceToProduce": 1.0,
+            "produces": [
+                {
+                    "intervalSeconds": 240.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic",
+                            "maxQuantityPerCycle": 10,
+                            "maxQuantityInTerminal": 50000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 1,
+                            "consumesItems": [
+							    {
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SpoiledMeat.PrimalItemConsumable_SpoiledMeat",
+                                    "quantityPerItem": 10,
+                                    "maxQuantityPerCycle": 0
+                                }
+							]
+                        }
+                    ]
+				}				
+            ]
+        },
+		{
+            "dinoType": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP_Aberrant.Scorpion_Character_BP_Aberrant",
+            "chanceToProduce": 1.0,
+            "produces": [
+                {
+                    "intervalSeconds": 240.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Narcotic.PrimalItemConsumable_Narcotic",
+                            "maxQuantityPerCycle": 10,
+                            "maxQuantityInTerminal": 50000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 1,
+                            "consumesItems": [
+							    {
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SpoiledMeat.PrimalItemConsumable_SpoiledMeat",
+                                    "quantityPerItem": 10,
+                                    "maxQuantityPerCycle": 0
+                                }
+							]
+                        }
+                    ]
+				}				
+            ]
+        },
+		{
+            "dinoType": "/AmissaAdditions/Assets/Dinos/Chicken/AmissaChicken_Character_BP.AmissaChicken_Character_BP",
+            "chanceToProduce": 1.0,
+            "produces": [
+                {
+                    "intervalSeconds": 240.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Amarberry.PrimalItemConsumable_Seed_Amarberry",
+                            "maxQuantityPerCycle": 10,
+                            "maxQuantityInTerminal": 50000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+				},{
+                    "intervalSeconds": 240.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Azulberry.PrimalItemConsumable_Seed_Azulberry",
+                            "maxQuantityPerCycle": 10,
+                            "maxQuantityInTerminal": 50000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+				},{
+                    "intervalSeconds": 240.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Mejoberry.PrimalItemConsumable_Seed_Mejoberry",
+                            "maxQuantityPerCycle": 10,
+                            "maxQuantityInTerminal": 50000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+				},{
+                    "intervalSeconds": 240.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Narcoberry.PrimalItemConsumable_Seed_Narcoberry",
+                            "maxQuantityPerCycle": 10,
+                            "maxQuantityInTerminal": 50000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+				},{
+                    "intervalSeconds": 240.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Stimberry.PrimalItemConsumable_Seed_Stimberry",
+                            "maxQuantityPerCycle": 10,
+                            "maxQuantityInTerminal": 50000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+				},{
+                    "intervalSeconds": 240.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Tintoberry.PrimalItemConsumable_Seed_Tintoberry",
+                            "maxQuantityPerCycle": 10,
+                            "maxQuantityInTerminal": 50000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+				}				
+            ]
+        },
+		{
+            "dinoType": "/AmissaAdditions/Assets/Dinos/Parrot/AmissaParrot_Character_BP",
+            "chanceToProduce": 1.0,
+            "produces": [
+                {
+                    "intervalSeconds": 480.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_DefensePlant_SpeedHack.PrimalItemConsumable_Seed_DefensePlant_SpeedHack",
+                            "maxQuantityPerCycle": 10,
+                            "maxQuantityInTerminal": 50000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 1,
+                            "consumesItemsChance": 1,
+                            "consumesItems": [
+							    {
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Amarberry.PrimalItemConsumable_Seed_Amarberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Azulberry.PrimalItemConsumable_Seed_Azulberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Mejoberry.PrimalItemConsumable_Seed_Mejoberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Narcoberry.PrimalItemConsumable_Seed_Narcoberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Stimberry.PrimalItemConsumable_Seed_Stimberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Tintoberry.PrimalItemConsumable_Seed_Tintoberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                }
+							]
+                        }
+                    ]
+				},{
+                    "intervalSeconds": 480.0,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/Aberration/WeaponPlantSpeciesZ/PrimalItemConsumable_Seed_PlantSpeciesZ.PrimalItemConsumable_Seed_PlantSpeciesZ",
+                            "maxQuantityPerCycle": 10,
+                            "maxQuantityInTerminal": 50000,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "consumesSelectMode": 1,
+                            "consumesItemsChance": 1,
+                            "consumesItems": [
+							    {
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Amarberry.PrimalItemConsumable_Seed_Amarberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Azulberry.PrimalItemConsumable_Seed_Azulberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Mejoberry.PrimalItemConsumable_Seed_Mejoberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Narcoberry.PrimalItemConsumable_Seed_Narcoberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Stimberry.PrimalItemConsumable_Seed_Stimberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                },{
+                                    "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/Seeds/PrimalItemConsumable_Seed_Tintoberry.PrimalItemConsumable_Seed_Tintoberry",
+                                    "quantityPerItem": 5,
+                                    "maxQuantityPerCycle": 0
+                                }
+							]
+                        }
+                    ]
+				}				
             ]
         }
 		
