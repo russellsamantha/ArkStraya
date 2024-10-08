@@ -1268,7 +1268,7 @@
             ]
         },
 		{
-            "dinoType": "/AmissaAdditions/Assets/Dinos/Parrot/AmissaParrot_Character_BP",
+            "dinoType": "/AmissaAdditions/Assets/Dinos/Parrot/AmissaParrot_Character_BP.AmissaParrot_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
                 {
